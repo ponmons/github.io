@@ -8,13 +8,13 @@ language: 'en-uk'
 baseurl: /
 
 # Website info
-title: 자유로운 삶
-description: 놀고 일하고 운동하고 사랑하는 삶
+title: 자유로운 엔지니어
+description: 놀고 일하고 운동하고 사랑하자
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://ponmons.github.io/blog/
+production_url: https://ponmons.github.io/
 source_url: https://github.com/ponmons/
 
 # Social info
@@ -69,10 +69,10 @@ lsi: False
 username: ponmons
 repo: ponmons.github.io
 branch: master
-relative_source: ../blog/
+relative_source: ../
 destination: ../blog-pages/
-production_url:  https://ponmons.github.io/blog/
-source_url:  https://github.com/ponmons/
+production_url:  https://ponmons.github.io/
+source_url:  https://github.com/ponmons/ponmons.github.io
 
 exclude:
   - assets/css
