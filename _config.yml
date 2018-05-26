@@ -8,8 +8,8 @@ language: 'en-uk'
 baseurl: /
 
 # Website info
-title: 자유로운 엔지니어
-description: 놀고 일하고 운동하고 사랑하자
+title: 생존 Log
+description: 어제보다 나은 하루
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
